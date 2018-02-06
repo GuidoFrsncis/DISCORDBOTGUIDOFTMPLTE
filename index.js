@@ -1,8 +1,8 @@
 const Discord = require("discord.js")
 
-const PREFIX = "ugkn ";
+const PREFIX = "!HELP";
 
-const TOKEN = "NDEwMjk0MzU5MTU0NjIyNDY0.DVrIuw.EHBnFb8JSaAHlhUl1O8E-NW0h5U";
+const TOKEN = "NDA4ODY2MzkwMTgzNzcyMTcw.DVuHlA.MxchFbrSfw8RHMsgdPK7kiAIzlw";
 
 var bot = new Discord.Client();
 
@@ -81,4 +81,4 @@ bot.on("message", function(message) {
 
     }
 });
-bot.login(TOKEN)
+bot.login(NDA4ODY2MzkwMTgzNzcyMTcw.DVuHlA.MxchFbrSfw8RHMsgdPK7kiAIzlw)
